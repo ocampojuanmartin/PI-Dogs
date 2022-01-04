@@ -1,0 +1,76 @@
+@font-face {
+    font-family: 'LatoBlack';
+    src: url('./Lato-Black.ttf');
+    font-style: normal;
+    font-weight: normal;
+}
+
+ 
+ 
+ 
+.container{
+    font-family: 'LatoBlack';
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    
+    background-image:url("D:\Users\Usuario\Desktop\Programacion\PI\PI-Dogs-main\client\src\Estilos\107961385_1889353884558168_2693227053030472251_n.jpg");
+    background-attachment: fixed;
+    background-size:cover; 
+    background-repeat:no-repeat;
+} 
+
+
+.img {
+    border-radius: 10px;
+    width: 550px;
+}
+
+.card {
+    
+    font-family: 'LatoBlack';
+    box-shadow: 0 90px 90px 170px rgba(0, 0, 0, 0.2);
+    width: 600px;
+    height: 1000px;
+    margin: auto;
+    background-image: url("D:\Users\Usuario\Desktop\Programacion\PI\PI-Dogs-main\client\src\Estilos\annie-spratt-gM8igOIP5MA-unsplash.jpg");
+    border-radius: 8px;
+    
+}
+
+.tem {
+    font-family: 'LatoBlack';
+    font-size: 22px;
+    color: #AC4B1C;
+    margin-top: 30px;
+}
+
+a {
+    
+    font-family: 'LatoBlack';
+    font-size: 22px;
+    color: #FCA652;
+}
+
+.name{
+    font-family: 'LatoBlack';
+    color: #FCA652;
+   
+}
+
+.height {
+    font-family: 'LatoBlack';
+    font-size: 20px;
+    color: #FCA652;
+}
+
+.weight {
+    font-size: 20px;
+    font-family: 'LatoBlack';
+    color: #FCA652;
+}
+
+.life {
+    font-family: 'LatoBlack';
+    color: #AC4B1C;
+}

@@ -1,0 +1,114 @@
+
+@font-face {
+    font-family: 'LatoBlack';
+    src: url('./Lato-Black.ttf');
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    font-family: "LatoBlack",
+    
+}
+
+
+.card {
+    
+    background-color: #ac4c1c;
+    margin: 80px;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-top: 150px;
+    background-image: url("D:\Users\Usuario\Desktop\Programacion\PI\PI-Dogs-main\client\src\Estilos\annie-spratt-gM8igOIP5MA-unsplash.jpg");
+    border-radius: 5px;
+    /* box-shadow: 0 2px 50px rgba(0, 0, 0, 0.8); */
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.8);
+    overflow: hidden;
+    width: 320px;
+    height: 450px;
+}
+
+
+.tem {
+    color: #FCA652;
+    font-size: 18px;
+}
+
+.tag {
+    
+    border-radius: 10px;
+    font-size: 25px;
+    margin: 0;
+    color: #fff;
+    padding: 2px 15px;
+    text-transform: uppercase;
+    cursor: pointer;
+    background-color: #FCA652;
+}
+
+.card:hover{
+    
+    transform: translateY(-3%);
+    transition: all 400ms ease;
+    
+} 
+
+.img {
+    margin-top: 15px;
+    border-radius: 8px;
+    width: 90%;
+    
+}
+
+
+
+/* .container {
+    border-radius: 1rem;
+    display: flex;
+    flex-direction:column-reverse;
+    margin: 1.5rem;
+    overflow: hidden;
+    width: 15rem;
+    backdrop-filter: blur(0.2rem);
+    background-color: hsla(0, 0%, 100%, 0.123);
+    border: .1rem solid rgba(124, 124, 124, 0.493);
+    width: 330px;
+    height: 360px;    
+} */
+
+  /* .container:hover{
+    transform: translateY(-3%);
+    box-shadow: 0 12px 16px rgba (0, 0, 0, 0.2);
+    transition: all 400ms ease;
+}  */
+
+/* .card h3 {
+    font-style: italic;
+    color: rgb(10, 10, 10);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} */
+
+/* .card h5{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, sans-serif;
+    font-size: 100%;
+    width: 300px;
+    height: 35px;
+    align-self: center;
+    color: black;
+    
+ } */
+
+ /* .card img{
+    margin-top:auto;
+    width: 80%;
+    height: 200px;
+    display: center;
+    align-self: center;
+    border-radius: 20px; 
+     } */
+

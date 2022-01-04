@@ -1,0 +1,234 @@
+@font-face {
+    font-family: 'LatoBlack';
+    src: url('./Lato-Black.ttf');
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+
+
+.word {
+    font-family: 'LatoBlack';
+    color: #AC4B1C;
+    font-size: 20px;
+}
+
+.cards{
+    font-family: 'LatoBlack';
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.home{  
+    min-height: 100vh;
+    font-family: 'LatoBlack';
+    cursor:default;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+    background-position: center center;
+     background-image: url('D:\Users\Usuario\Desktop\Programacion\PI\PI-Dogs-main\client\src\Estilos\108220640_1889352197891670_3390380033613346331_n.jpg'); 
+    background-color: #e2e1e1; 
+}
+
+.btn {
+    font-family: 'LatoBlack';
+    position: absolute;
+    top: 27.5%;
+    left: 21%;
+    transform: translate(-50%, -50%);
+    padding: 12px;
+    background-color: #FCA652;
+    color: white;
+    font-size: 17px;
+}
+
+.box1 {
+    
+    position: absolute;
+    top: 12%;
+    left: 10.7%;
+    transform: translate(-50%, -50%);
+    
+}
+  
+.box1 select {
+    font-family: 'LatoBlack';
+    background-color: #FCA652;
+    color: white;
+    padding: 12px;
+    width: 250px;
+    border: none;
+    font-size: 18px;
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2);
+    
+}
+  
+.box1::before {
+    
+    font-family: 'LatoBlack';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 20%;
+    height: 100%;
+    text-align: center;
+    font-size: 28px;
+    line-height: 45px;
+    color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.1);
+    pointer-events: none;
+}
+  
+.box1:hover::before {
+    color: rgba(255, 255, 255, 0.6);
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+  
+.box1 select option {
+    padding: 30px;
+}
+
+/* ------------------ */
+
+.box2 {
+    position: absolute;
+    top: 17%;
+    left: 12.9%;
+    transform: translate(-50%, -50%);
+}
+  
+.box2 select {
+    font-family: 'LatoBlack';
+    background-color: #FCA652;
+    color: white;
+    padding: 12px;
+    width: 250px;
+    border: none;
+    font-size: 18px;
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2);
+    
+}
+  
+.box2::before {
+    font-family: 'LatoBlack';
+    font-family: FontAwesome;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 20%;
+    height: 100%;
+    text-align: center;
+    font-size: 28px;
+    line-height: 45px;
+    color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.1);
+    pointer-events: none;
+}
+  
+.box2:hover::before {
+    color: rgba(255, 255, 255, 0.6);
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+  
+.box2 select option {
+    padding: 30px;
+}
+
+/* ------------------ */
+
+.box3 {
+    position: absolute;
+    top: 22%;
+    left: 12.9%;
+    transform: translate(-50%, -50%);
+}
+  
+.box3 select {
+    font-family: 'LatoBlack';
+    background-color: #FCA652;
+    color: white;
+    padding: 12px;
+    width: 250px;
+    border: none;
+    font-size: 18px;
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2);
+    
+}
+  
+.box3::before {
+    font-family: 'LatoBlack';
+    font-family: FontAwesome;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 20%;
+    height: 100%;
+    text-align: center;
+    font-size: 28px;
+    line-height: 45px;
+    color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.1);
+    pointer-events: none;
+}
+  
+.box3:hover::before {
+    color: rgba(255, 255, 255, 0.6);
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+  
+.box3 select option {
+    padding: 30px;
+}
+
+/* ------------------ */
+
+.box4 {
+    position: absolute;
+    top: 27%;
+    left: 12.9%;
+    transform: translate(-50%, -50%);
+}
+  
+.box4 select {
+    font-family: 'LatoBlack';
+    background-color: #FCA652;
+    color: white;
+    padding: 12px;
+    width: 250px;
+    border: none;
+    font-size: 18px;
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2);
+    
+}
+  
+.box4::before {
+    font-family: 'LatoBlack';
+    font-family: FontAwesome;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 20%;
+    height: 100%;
+    text-align: center;
+    font-size: 28px;
+    line-height: 45px;
+    color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.1);
+    pointer-events: none;
+}
+  
+.box4:hover::before {
+    color: rgba(255, 255, 255, 0.6);
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+  
+.box4 select option {
+    padding: 30px;
+}
