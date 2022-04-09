@@ -5,4 +5,4 @@ Desarrollo de un Single Page Application utilizando React para el Front y Redux 
 - Ver el detalle de cada receta en una carta personalizada
 - Crear una nueva receta con sus datos
 
-
+<img src="https://toppng.com/public/uploads/thumbnail/dog-icon-infographic-corgi-icon-11553428947rqkl9n9hkp.png" alt="Alt text"  height="300" width="400" title="Optional title">
