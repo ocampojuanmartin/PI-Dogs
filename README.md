@@ -16,3 +16,5 @@ Desarrollo de un Single Page Application utilizando React para el Front y Redux 
 
 
 ![Desktop Screenshot 2022 04 09 - 15 43 24 59](https://user-images.githubusercontent.com/84095731/162625819-f92e0950-74fd-4340-969f-6d93d0172cfe.png)
+
+![Desktop Screenshot 2022 04 09 - 15 43 59 53](https://user-images.githubusercontent.com/84095731/162625866-550d075f-5d5f-4701-b9b3-6d1cba469159.png)
