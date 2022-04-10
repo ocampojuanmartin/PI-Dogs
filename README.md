@@ -14,6 +14,7 @@ Desarrollo de un Single Page Application utilizando React para el Front y Redux 
 
 - Crear una nueva raza de perro con sus datos
 
+Algunas capturas del proyecto: 🐕
 
 ![Desktop Screenshot 2022 04 09 - 15 44 52 33](https://user-images.githubusercontent.com/84095731/162625885-0131cf2f-4ba4-414a-b4a0-c7815b9b8fb6.png)
 
